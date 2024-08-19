@@ -1,8 +1,10 @@
-```js
-npm i swagger-jsdoc swagger-ui-express
-npm i -D @types/swagger-jsdoc @types/swagger-ui-express
+# REST API ADMINISTRATOR DE PRODUCTOS
+
+Rest API creada en Node con Express, Sequelize, TypeScript y Swagger sobre base de datos PostgreSQL.
+
+## Instalación
+```
+npm install
+npm run dev
 ```
 
-
-BD
-https://neon.tech
